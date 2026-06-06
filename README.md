@@ -1,0 +1,4 @@
+echo
+main
+testttttt
+end
